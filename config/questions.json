@@ -1,0 +1,54 @@
+[
+    {
+        "id":"report-question-name",
+        "name":"Your Full Name",
+        "type":"short",
+        
+        "required":true,
+        "placeholder":"e.g. John Smith",
+        "length":{
+            "enabled":true,
+            "min":2,
+            "max":100
+        }
+    },
+    {
+        "id":"report-question-type",
+        "name":"Type of Issue",
+        "type":"short",
+        
+        "required":true,
+        "placeholder":"e.g. Bug, Wrong information, User behaviour, Server issue...",
+        "length":{
+            "enabled":true,
+            "min":3,
+            "max":100
+        }
+    },
+    {
+        "id":"report-question-description",
+        "name":"Describe the Issue in Detail",
+        "type":"paragraph",
+        
+        "required":true,
+        "placeholder":"What happened? When did it occur? Include any relevant details.",
+        "length":{
+            "enabled":true,
+            "min":20,
+            "max":1000
+        }
+    },
+    {
+        "id":"report-question-evidence",
+        "name":"Evidence or Additional Context (optional)",
+        "type":"paragraph",
+        
+        "required":false,
+        "placeholder":"Paste any links, usernames, timestamps, or other evidence that may help us investigate.",
+        "length":{
+            "enabled":true,
+            "min":0,
+            "max":1000
+        }
+    }
+]

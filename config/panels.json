@@ -1,0 +1,37 @@
+[
+    {
+        "id":"ielts-report-panel",
+        "name":"IELTS Report Panel",
+        "dropdown":false,
+        "options":["report-issue"],
+
+        "text":"",
+        "embed":{
+            "enabled":true,
+            "title":"🚨 Report an Issue",
+            "description":"Have you encountered a problem, bug, or concern on this server?\n\nUse the button below to open a **private ticket** with our staff team. All reports are handled confidentially and taken seriously.\n\n**You should report:**\n• Rule violations or user misconduct\n• Incorrect or misleading IELTS information\n• Technical issues or bugs\n• Any other concerns about the server",
+            
+            "customColor":"#f8ba00",
+            "url":"",
+
+            "image":"",
+            "thumbnail":"",
+            
+            "footer":"IELTS Server • All reports are confidential",
+            "fields":[],
+            "timestamp":false
+        },
+        "settings":{
+            "dropdownPlaceholder":"Select an option...",
+
+            "enableMaxTicketsWarningInText":false,
+            "enableMaxTicketsWarningInEmbed":true,
+
+            "describeOptionsLayout":"detailed",
+            "describeOptionsCustomTitle":"",
+            "describeOptionsInText":false,
+            "describeOptionsInEmbedFields":false,
+            "describeOptionsInEmbedDescription":false
+        }
+    }
+]
