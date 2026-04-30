@@ -1,23 +1,23 @@
 [
     {
-        "id":"ielts-report-panel",
-        "name":"IELTS Report Panel",
+        "id":"server-report-panel",
+        "name":"Server Report Panel",
         "dropdown":false,
         "options":["report-issue"],
 
         "text":"",
         "embed":{
             "enabled":true,
-            "title":"🚨 Report an Issue",
-            "description":"Have you encountered a problem, bug, or concern on this server?\n\nUse the button below to open a **private ticket** with our staff team. All reports are handled confidentially and taken seriously.\n\n**You should report:**\n• Rule violations or user misconduct\n• Incorrect or misleading IELTS information\n• Technical issues or bugs\n• Any other concerns about the server",
+            "title":"🟣 Report an Issue",
+            "description":"Hii there (≧ヮ≦) ! If you've spotted something that doesn't seem right, or have a concern you'd like to share with our staff team — we're here for you!\n\nJust click the button below to open a **private ticket** with us. Everything is handled with care and confidentiality! 🔒\n\n**You're encouraged to report things like:** 🍵\n🟣 Rule violations or unkind behaviour\n🟣 Incorrect or misleading IELTS information\n🟣 Technical issues or bugs\n🟣 Any other concerns about the server\n\nNo concern is too small — we love hearing from you!ヘ( ^o^)ノ",
             
-            "customColor":"#f8ba00",
+            "customColor":"#ffb3c6",
             "url":"",
 
             "image":"",
             "thumbnail":"",
             
-            "footer":"IELTS Server • All reports are confidential",
+            "footer":" • All reports are confidential & handled with care. ^-^",
             "fields":[],
             "timestamp":false
         },

@@ -1,11 +1,11 @@
 [
     {
         "id":"report-question-name",
-        "name":"Your Full Name",
+        "name":"Your Name",
         "type":"short",
         
         "required":true,
-        "placeholder":"e.g. John Smith",
+        "placeholder":"e.g. Cookies are Yummy!",
         "length":{
             "enabled":true,
             "min":2,
@@ -18,7 +18,7 @@
         "type":"short",
         
         "required":true,
-        "placeholder":"e.g. Bug, Wrong information, User behaviour, Server issue...",
+        "placeholder":"e.g. Bug, User behaviour, Server issue...",
         "length":{
             "enabled":true,
             "min":3,
@@ -27,11 +27,11 @@
     },
     {
         "id":"report-question-description",
-        "name":"Describe the Issue in Detail",
+        "name":"Describe the Issue 🦉",
         "type":"paragraph",
         
         "required":true,
-        "placeholder":"What happened? When did it occur? Include any relevant details.",
+        "placeholder":"What happened? When did it occur? Any details help!",
         "length":{
             "enabled":true,
             "min":20,
@@ -40,11 +40,11 @@
     },
     {
         "id":"report-question-evidence",
-        "name":"Evidence or Additional Context (optional)",
+        "name":"Evidence or Extra Context (optional) 🔎",
         "type":"paragraph",
         
         "required":false,
-        "placeholder":"Paste any links, usernames, timestamps, or other evidence that may help us investigate.",
+        "placeholder":"Links, usernames, timestamps — anything that might help!",
         "length":{
             "enabled":true,
             "min":0,

@@ -2,17 +2,17 @@
     {
         "id":"report-issue",
         "name":"Report an Issue",
-        "description":"Report a bug, problem, or concern to the IELTS server staff team.",
+        "description":"Report your concern to our staff team!☆*: .｡. o(≧▽≦)o .｡.:*☆",
         "type":"ticket",
 
         "button":{
-            "emoji":"🚨",
+            "emoji":"🦉",
             "label":"Report an Issue",
             "color":"red"
         },
 
-        "ticketAdmins":["1499130191463579721"],
-        "readonlyAdmins":["1499130191463579721"],
+        "ticketAdmins":["1499130191463579721","1498365934971129866","1497746175929880626","1498365983591759902"],
+        "readonlyAdmins":["1499130191463579721","1498365934971129866","1497746175929880626","1498365983591759902"],
         "allowCreationByBlacklistedUsers":false,
         "questions":["report-question-name","report-question-type","report-question-description","report-question-evidence"],
 
@@ -25,17 +25,17 @@
             "claimedCategory":[
                 {"user":"1499130191463579721","category":"1497741070824636536"}
             ],
-            "topic":"Issue Report — IELTS Server"
+            "topic":"🔎Issue Report — we're on it!"
         },
         
         "dmMessage":{
             "enabled":true,
-            "text":"✅ Your report has been received! Our staff team will review your issue and get back to you as soon as possible. Thank you for helping keep the server safe and running smoothly.",
+            "text":"Thank you for reaching out! Your report has been received and our staff team will look into it right away! You're helping make the server a better place — we really appreciate it! (⌣_⌣) ~ ︵ ┻━┻",
             "embed":{
                 "enabled":false,
                 "title":"",
                 "description":"",
-                "customColor":"#f8ba00",
+                "customColor":"#ffb3c6",
                 "image":"",
                 "thumbnail":"",
                 "fields":[],
@@ -47,21 +47,21 @@
             "text":"",
             "embed":{
                 "enabled":true,
-                "title":"🚨 Issue Report",
-                "description":"Thank you for submitting a report to the **IELTS Server Staff Team**.\n\nWe take all reports seriously and will investigate your issue as quickly as possible. Please do not discuss the contents of this report outside of this ticket.\n\n> 🕐 **Average response time:** under 24 hours\n> 🔒 **This ticket is private** — only you and staff can see it.",
-                "customColor":"#f8ba00",
+                "title":"🦉 Issue Report!",
+                "description":"Thank you so much for taking the time to report something to us!\n\nOur staff team will review your report and handle everything with care. Please don't discuss the details of this report outside of this ticket — keeping it here helps us investigate properly! 🔒\n\n> 🕐 **Average response time:** under 24 hours\n> 💨 **This ticket is private** — only you and our staff can see it!",
+                "customColor":"#ffb3c6",
                 "image":"",
                 "thumbnail":"",
                 "fields":[
-                    {"name":"📋 What happens next?","value":"1. A staff member will review your report\n2. We may ask for additional information\n3. You will be notified of any action taken","inline":false},
-                    {"name":"⚠️ Important","value":"Please do **not** open multiple tickets for the same issue. If your report is urgent, mention it in this ticket.","inline":false}
+                    {"name":"🦉 What happens next?","value":"🕶️ A staff member will review your report\n🕶️ We might ask you for a little more info\n🕶️ You'll be updated on any action we take!","inline":false},
+                    {"name":"🦉 Friendly reminder!","value":"Please don't open multiple tickets for the same issue. If it's urgent, just mention it here and we'll prioritise it!🔔","inline":false}
                 ],
                 "timestamp":true
             },
             "ping":{
                 "@here":false,
                 "@everyone":false,
-                "custom":["1499130191463579721"]
+                "custom":["1499130191463579721","1498365934971129866","1497746175929880626","1498365983591759902"]
             }
         },
         "autoclose":{

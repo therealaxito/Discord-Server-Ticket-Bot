@@ -8,11 +8,11 @@
         "enableActiveAdminDM":false,
         "enableEveryAdminDM":false,
 
-        "channel":"1497741128840249454",
+        "channel":"1499113709304414279",
         "mode":"html"
     },
     "embedSettings":{
-        "customColor":"#f8ba00",
+        "customColor":"#ffb3c6",
         "listAllParticipants":true,
         "includeTicketStats":true
     },
@@ -30,22 +30,22 @@
     "htmlTranscriptStyle":{
         "background":{
             "enableCustomBackground":true,
-            "backgroundColor":"#1a1a1a",
-            "backgroundImage":"" 
+            "backgroundColor":"#fff0f5",
+            "backgroundImage":""
         },
         "header":{
             "enableCustomHeader":true,
-            "backgroundColor":"#202225",
-            "decoColor":"#f8ba00",
-            "textColor":"#ffffff"
+            "backgroundColor":"#ffe4ee",
+            "decoColor":"#ffb3c6",
+            "textColor":"#5c3d4a"
         },
         "stats":{
             "enableCustomStats":true,
-            "backgroundColor":"#202225",
-            "keyTextColor":"#aaaaaa",
-            "valueTextColor":"#ffffff",
-            "hideBackgroundColor":"#2c2f33",
-            "hideTextColor":"#ffffff"
+            "backgroundColor":"#ffe4ee",
+            "keyTextColor":"#c47a8a",
+            "valueTextColor":"#5c3d4a",
+            "hideBackgroundColor":"#ffd6e4",
+            "hideTextColor":"#5c3d4a"
         },
         "favicon":{
             "enableCustomFavicon":false,
